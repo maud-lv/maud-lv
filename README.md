@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maud-lv I'm based in France, I'm a Program Manager working with developer communities and I'm learning to code.
+- 👋 Hi, I’m @maud-lv I'm based in France, I'm a Program Manager working with developer communities and I'm learning to code.  I work at Microsoft and I'm a volunteer organizer at @PyLadiesParis
 - 👀 I’m interested in Python and Open Source
 - 🌱 I’m currently learning Python. I just completed a nanodegree on programming for data science with SQL and Python
 - 💞️ I’m looking to collaborate on open source projects
