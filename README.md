@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maud-lv I'm based in France, I'm a Content Developer at Microsoft and I'm a volunteer organizer at @PyLadiesParis
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: ping me on Twitter @maudstweets
+- 📫 How to reach me: ping me on X @maudstweets or on [LinkedIn](https://www.linkedin.com/in/maudlevy/)
